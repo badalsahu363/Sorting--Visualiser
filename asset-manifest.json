@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sorting--Visualiser/static/css/main.4815b51a.css",
+    "main.js": "/Sorting--Visualiser/static/js/main.be203a9f.js",
+    "static/js/787.878a89ae.chunk.js": "/Sorting--Visualiser/static/js/787.878a89ae.chunk.js",
+    "static/media/MonoLisa-Regular.otf": "/Sorting--Visualiser/static/media/MonoLisa-Regular.4ec1cbcb13c98e690a55.otf",
+    "index.html": "/Sorting--Visualiser/index.html",
+    "main.4815b51a.css.map": "/Sorting--Visualiser/static/css/main.4815b51a.css.map",
+    "main.be203a9f.js.map": "/Sorting--Visualiser/static/js/main.be203a9f.js.map",
+    "787.878a89ae.chunk.js.map": "/Sorting--Visualiser/static/js/787.878a89ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4815b51a.css",
+    "static/js/main.be203a9f.js"
+  ]
+}
